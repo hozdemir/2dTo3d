@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+numpy==1.24.3
+pillow==10.0.0
+trimesh==3.23.5
+numpy-stl==3.0.1
+scikit-image==0.21.0
+matplotlib==3.7.2
+rembg==2.0.50
